@@ -1,2 +1,6 @@
-# githubdemo
-This a repo to demonstrate the usage of github.........!
+git clone "remot-url"
+git status
+---> changes the files
+git add "file"
+git commit -m "version1"
+git push origin main
